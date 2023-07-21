@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">test_btc</string>
+    <string-array name="currency_array">
+        <item>EUR</item>
+        <item>GBP</item>
+        <item>USD</item>
+    </string-array>
+</resources>
